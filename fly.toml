@@ -1,6 +1,6 @@
-# fly.toml file generated for wandering-cherry-8000 on 2022-11-26T16:42:52-07:00
+# fly.toml file generated for blue-forest-6067 on 2022-11-26T16:56:15-07:00
 
-app = "wandering-cherry-8000"
+app = "blue-forest-6067"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
